@@ -1,0 +1,23 @@
+/Users/surya/Desktop/Professional/Class/Xamarin Apps/StarwarsAPI/StarwarsAPI/bin/Debug/netstandard2.0/StarwarsAPI.deps.json
+/Users/surya/Desktop/Professional/Class/Xamarin Apps/StarwarsAPI/StarwarsAPI/bin/Debug/netstandard2.0/StarwarsAPI.dll
+/Users/surya/Desktop/Professional/Class/Xamarin Apps/StarwarsAPI/StarwarsAPI/bin/Debug/netstandard2.0/StarwarsAPI.pdb
+/Users/surya/Desktop/Professional/Class/Xamarin Apps/StarwarsAPI/StarwarsAPI/obj/Debug/netstandard2.0/StarwarsAPI.csprojAssemblyReference.cache
+/Users/surya/Desktop/Professional/Class/Xamarin Apps/StarwarsAPI/StarwarsAPI/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/surya/Desktop/Professional/Class/Xamarin Apps/StarwarsAPI/StarwarsAPI/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/surya/Desktop/Professional/Class/Xamarin Apps/StarwarsAPI/StarwarsAPI/obj/Debug/netstandard2.0/StarwarsAPI.csproj.CoreCompileInputs.cache
+/Users/surya/Desktop/Professional/Class/Xamarin Apps/StarwarsAPI/StarwarsAPI/obj/Debug/netstandard2.0/StarwarsAPI.AssemblyInfoInputs.cache
+/Users/surya/Desktop/Professional/Class/Xamarin Apps/StarwarsAPI/StarwarsAPI/obj/Debug/netstandard2.0/StarwarsAPI.AssemblyInfo.cs
+/Users/surya/Desktop/Professional/Class/Xamarin Apps/StarwarsAPI/StarwarsAPI/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/surya/Desktop/Professional/Class/Xamarin Apps/StarwarsAPI/StarwarsAPI/obj/Debug/netstandard2.0/StarwarsAPI.dll
+/Users/surya/Desktop/Professional/Class/Xamarin Apps/StarwarsAPI/StarwarsAPI/obj/Debug/netstandard2.0/StarwarsAPI.pdb
+/Users/nicksden/Downloads/StarwarsAPI/StarwarsAPI/bin/Debug/netstandard2.0/StarwarsAPI.deps.json
+/Users/nicksden/Downloads/StarwarsAPI/StarwarsAPI/bin/Debug/netstandard2.0/StarwarsAPI.dll
+/Users/nicksden/Downloads/StarwarsAPI/StarwarsAPI/bin/Debug/netstandard2.0/StarwarsAPI.pdb
+/Users/nicksden/Downloads/StarwarsAPI/StarwarsAPI/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/nicksden/Downloads/StarwarsAPI/StarwarsAPI/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/nicksden/Downloads/StarwarsAPI/StarwarsAPI/obj/Debug/netstandard2.0/StarwarsAPI.csproj.CoreCompileInputs.cache
+/Users/nicksden/Downloads/StarwarsAPI/StarwarsAPI/obj/Debug/netstandard2.0/StarwarsAPI.AssemblyInfoInputs.cache
+/Users/nicksden/Downloads/StarwarsAPI/StarwarsAPI/obj/Debug/netstandard2.0/StarwarsAPI.AssemblyInfo.cs
+/Users/nicksden/Downloads/StarwarsAPI/StarwarsAPI/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/nicksden/Downloads/StarwarsAPI/StarwarsAPI/obj/Debug/netstandard2.0/StarwarsAPI.dll
+/Users/nicksden/Downloads/StarwarsAPI/StarwarsAPI/obj/Debug/netstandard2.0/StarwarsAPI.pdb

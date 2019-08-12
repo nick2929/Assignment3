@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{1DFA0B57-E82E-4C2D-9DE4-B46AAF5953F2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StarwarsAPI.iOS/Resources/LaunchScreen.storyboard">
+    <Files>
+      <File FileName="StarwarsAPI/MainPage.xaml.cs" Line="32" Column="10" />
+      <File FileName="StarwarsAPI/MainPage.xaml" />
+      <File FileName="StarwarsAPI/Models/Film.cs" Line="8" Column="2" />
+      <File FileName="StarwarsAPI.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="StarwarsAPI.iOS/Resources/LaunchScreen.storyboard" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StarwarsAPI" expanded="True">
+            <Node name="StarwarsAPI" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="StarwarsAPI.iOS" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="LaunchScreen.storyboard" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StarwarsAPI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BAF9FB31-967C-4C6F-ADA0-335418EC0B43" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
